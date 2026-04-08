@@ -14,7 +14,14 @@ como escribir un "slash":
 
 Crear una nueva Carpeta:
 
-al lado de 
+en el repositorio ir arriba a la derecha y apretar el mas, luego apretar donde dice "add file" y rellenar con la configuracion deseada
+
+
+video informativo de que es github:
+
+https://www.youtube.com/watch?v=IFcWZgJzBt0
+
+
 
  
 
