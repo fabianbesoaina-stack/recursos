@@ -1,2 +1,3 @@
 recursos de aprendisaje 
-[FundamentosProgramacion](./
+[FundamentosProgramacion] (./Fundamentos Programacion)
+
