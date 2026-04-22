@@ -6,7 +6,7 @@ redactado en [PARADIGMAS](./PARADIGMAS.md)
 
 # Material sobre Fundamentos de Programación"
 
-(./POO.md) 
+[POO.md](./POO.md) 
 
 
 
