@@ -3,13 +3,13 @@
 
 # Fundamentos Programacion
 
-[-Paradigmas](./PARADIGMAS.md)
+[-Paradigmas](/PARADIGMAS.md)
 
-[-POO](./POO.md)
+[-POO](/POO.md)
 
 # MarkDown
 
-[MarkDown](./MarkDown.md)
+[MarkDown](/MarkDown.md)
 
 ## python
 
