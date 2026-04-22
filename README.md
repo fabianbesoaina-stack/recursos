@@ -1,4 +1,4 @@
-## recursos de aprendisaje 
+## recursos de aprendizaje 
 
 
 # Fundamentos Programacion
