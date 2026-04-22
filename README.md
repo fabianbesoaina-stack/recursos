@@ -33,7 +33,7 @@
 
 ## Visual Estudio Code (VS CODE)
 
-[VS CODE](./Visual_Studio_Code.md)
+[VS CODE](./VisualStudioCode.md)
 
 
 
