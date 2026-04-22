@@ -1,5 +1,5 @@
 recursos de aprendisaje 
 
 
-[FundamentosProgramacion] (./Fundamentos Programacion)
+[FundamentosProgramacion] (./Fundamentos Programacion.md)
 
