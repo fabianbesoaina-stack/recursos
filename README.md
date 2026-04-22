@@ -33,7 +33,8 @@
 
 ## Visual Estudio Code (VS CODE)
 
-[VS Code](./)
+[VS CODE](./Visual Studio Code.md)
+
 
 
 
