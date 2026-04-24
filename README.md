@@ -1,6 +1,6 @@
 ## FUNDAMENTOS PROGRAMACION
 
-[Fundamentos de Programacion](Fundamentos_Programacion/README.md)
+[Fundamentos de Programacion](Fundamentos_Pogramacion/README.md)
 
 ##MarkDown
 
