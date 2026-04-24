@@ -12,4 +12,4 @@
 
 #VS Code
 
-[VS Code](VsCode /readme.md)
+[VS Code](VsCode/README.md)
