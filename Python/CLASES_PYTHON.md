@@ -36,15 +36,15 @@ mi_personaje.atributos()
 
 # Encapsulacion
 
-##¿cómo se encapsula código en python?
+## ¿cómo se encapsula código en python?
 para encapsular en python debemos colocar dos guiones bajos (__) antes de nuestro atributo, esto nos permitira que no se pueda modificar nuestro atrivito de forma externa 
 
 
-##¿para que se usan los métodos get y set en el código?
+## ¿para que se usan los métodos get y set en el código?
 
 estos metodos son para modificar o acceder los atributos individualmente de una forma controlada
 
-##¿se puede acceder a los método o atributos una vez encapsulados?
+## ¿se puede acceder a los método o atributos una vez encapsulados?
 
 si se puede modificar los atributos una vez encapsulados, se encapsula para protegerlos de una accesibilidad muy directa pero podemos acceder a ellos mediante los metodos getters y setters, esto nos permite mantener seguros los atributos de modificaciones accidentales fuera de la clase.
 
