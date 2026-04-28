@@ -16,4 +16,5 @@ En esta carpeta se encuentran ejemplos básicos de programación en Python.
 
 [poo_gato.py](poo_gato.py)
 
-## [Clases_python]
+## Clases_python
+[personaje](Python/CLASES_PYTHON.md)
