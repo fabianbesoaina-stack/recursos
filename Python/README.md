@@ -15,3 +15,5 @@ En esta carpeta se encuentran ejemplos básicos de programación en Python.
  ## Ejemplo de código Poo de una clase en Python
 
 [poo_gato.py](poo_gato.py)
+
+## [Clases_python]
