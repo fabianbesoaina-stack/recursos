@@ -34,7 +34,7 @@ mi_personaje.atributos()
 
 
 
-#Encapsulacion
+# Encapsulacion
 
 ##¿cómo se encapsula código en python?
 para encapsular en python debemos colocar dos guiones bajos (__) antes de nuestro atributo, esto nos permitira que no se pueda modificar nuestro atrivito de forma externa 
