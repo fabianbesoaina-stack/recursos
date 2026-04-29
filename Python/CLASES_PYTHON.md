@@ -49,5 +49,36 @@ estos metodos son para modificar o acceder los atributos individualmente de una 
 si se puede modificar los atributos una vez encapsulados, se encapsula para protegerlos de una accesibilidad muy directa pero podemos acceder a ellos mediante los metodos getters y setters, esto nos permite mantener seguros los atributos de modificaciones accidentales fuera de la clase.
 
 
+# Herencia
+
+## ¿por qué cuando se crea la clase guerrero al inicio heredando de la clase personaje genera error el código?
+
+por que debe seleccionarle atributos al personaje
+
+## ¿cuándo en el video se menciona la super clase a que se refiere?
+
+se refiere al personaje principal, el cual es el que le da los atributos base a los demas personajes
+
+## ¿qué es la función integrada super y para que se usa, que beneficio aporta?
+
+es para acceder a metodos y atributos de una clase padre desde una clase hija, simplifica el trabajo en la programacion orientada a objetos
+
+## ¿en el video se menciona la herencia múltiple a que se refiere?
+
+se refiere a heredar de mas de una clase a la vez
+
+## ¿cuál es el beneficio de aplicar herencia en POO?
+
+siemplifica las tares de estar creando multiples caracteristicas para distintos objetos en vez de solo crear uno e ir modificandolo segun las caracteristicas que necesitamos
+
+# POLIMORFISMO
+
+## ¿para que se usa el polimorfismo?
+
+es para ejecutar acciones con el mismo nombre pero de distinta clase 
+
+##¿en el método daño(self, enemigo) que deberíamos hacer en el caso de que la fuerza sea menor a la defensa?
+
+
 
 
