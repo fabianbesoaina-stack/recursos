@@ -18,4 +18,4 @@
 
 ## Mermaid
 
-[mermaid]()
+[mermaid](Mermaid)
