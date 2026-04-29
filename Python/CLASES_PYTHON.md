@@ -79,6 +79,13 @@ es para ejecutar acciones con el mismo nombre pero de distinta clase
 
 ##¿en el método daño(self, enemigo) que deberíamos hacer en el caso de que la fuerza sea menor a la defensa?
 
+# Proyecto Final: [mascota]
+
+lo que hace mi clase es variar entre la energia de dos gatos segun el timepo que juegan y descansan, estas estadisticas varian segun la edad que tengan estos gatitos osea el gato mas joven tiene mas energia que el gato mas viejito
+
+ [Ver código de práctica final]
+
+
 
 
 
