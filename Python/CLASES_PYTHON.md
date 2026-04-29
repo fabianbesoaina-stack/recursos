@@ -83,7 +83,7 @@ es para ejecutar acciones con el mismo nombre pero de distinta clase
 
 lo que hace mi clase es variar entre la energia de dos gatos segun el timepo que juegan y descansan, estas estadisticas varian segun la edad que tengan estos gatitos osea el gato mas joven tiene mas energia que el gato mas viejito
 
- [Ver código de práctica final]
+ [Ver código de práctica final](Python/mascota.py)
 
 
 
