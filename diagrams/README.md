@@ -1,1 +1,1 @@
-[¿que es uml?](diagrams/UML.md)
+[¿que es uml?](UML.md)
