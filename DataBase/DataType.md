@@ -1,5 +1,7 @@
 ## ¿Cuál es la característica principal del tipo de dato CHAR en cuanto a su almacenamiento y qué sucede si el contenido ingresado es menor a la longitud definida?
 
+R: la principal caracteristica de char es que siempre se usara el espacio definido por el usuario, osea, si le indicamos que usaremos 10 espacions, se aplicara esta instruccion incluso si nuestro dato ocupase menos de 10 espacios por lo que seria ineficiente al moento de almacenar caracteres de distinta longitud, ya que muchos quedarian simplemente en blanco y ocuparian el espacio.
+Este tipo de dato sirve cunado queremos almacenar datos con longitudes fijas, por ejemplo patentes de autos
 
 ## ¿En qué se diferencia principalmente VARCHAR de CHAR y por qué se considera más eficiente para almacenar datos como nombres o direcciones?
 
