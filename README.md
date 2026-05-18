@@ -22,3 +22,6 @@
 
 ## Base de datos
 [base de datos](DataBase/LogicDesing/README.md)
+
+## Preguntas DataType
+[preguntas](DataBase/DataType.md)
