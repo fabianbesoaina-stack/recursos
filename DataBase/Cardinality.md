@@ -1,6 +1,6 @@
+# Notación Clásica
 uno a uno
 <img width="1179" height="253" alt="db_cardinalidad_clasic-1-1" src="https://github.com/user-attachments/assets/9df6af0b-1d69-49d8-970d-69c5bde00448" />
-
 
 uno a muchos
 <img width="960" height="229" alt="db_cardinalidad_clasic-1-N" src="https://github.com/user-attachments/assets/b6980709-8937-4635-9e76-f56d14f92cf1" />
@@ -8,6 +8,7 @@ uno a muchos
 muchos a muchos
 <img width="1080" height="199" alt="db_cardinalidad_clasic-N-M" src="https://github.com/user-attachments/assets/c71f754b-6759-4682-a43c-b9a7f055886d" />
 
+# Notación de Mínimos y Máximos
 
 0 a 1
 <img width="971" height="206" alt="db_cardinalidad_min_max-0-1" src="https://github.com/user-attachments/assets/7cff5a93-638c-4837-93b8-246739542511" />
