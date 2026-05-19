@@ -15,8 +15,6 @@ muchos a muchos
 0 a n
 <img width="1080" height="194" alt="db_cardinalidad_min_max-0-N" src="https://github.com/user-attachments/assets/27c0f94d-568e-4b9b-a047-259bec302349" />
 
-<img width="984" height="172" alt="db_cardinalidad_min_max-1-1" src="https://github.com/user-attachments/assets/ab93e966-0179-4022-be35-c6dc1bb90d83" />
-
 1 a 1 
 
 <img width="984" height="172" alt="db_cardinalidad_min_max-1-1" src="https://github.com/user-attachments/assets/ab93e966-0179-4022-be35-c6dc1bb90d83" />
