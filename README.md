@@ -25,3 +25,6 @@
 
 ## Preguntas DataType
 [preguntas](DataBase/DataType.md)
+
+## Notaciones
+[notaciones](DataBase/Cardinality.md)
