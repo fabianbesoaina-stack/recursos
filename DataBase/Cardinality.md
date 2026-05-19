@@ -1,5 +1,6 @@
 uno a uno
-<img width="984" height="172" alt="db_cardinalidad_min_max-1-1" src="https://github.com/user-attachments/assets/ab93e966-0179-4022-be35-c6dc1bb90d83" />
+<img width="1179" height="253" alt="db_cardinalidad_clasic-1-1" src="https://github.com/user-attachments/assets/9df6af0b-1d69-49d8-970d-69c5bde00448" />
+
 
 uno a muchos
 <img width="960" height="229" alt="db_cardinalidad_clasic-1-N" src="https://github.com/user-attachments/assets/b6980709-8937-4635-9e76-f56d14f92cf1" />
