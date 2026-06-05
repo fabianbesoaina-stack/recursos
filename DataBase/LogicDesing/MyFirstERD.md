@@ -1,4 +1,4 @@
-# Modelo de Base de Datos ppara tienda de perfumes
+# Modelo de Base de Datos para tienda de perfumes
 
 
 <img width="1322" height="1600" alt="image" src="https://github.com/user-attachments/assets/3f8de035-ec3c-4127-addc-c4c630b555f7" />
