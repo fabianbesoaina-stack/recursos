@@ -28,3 +28,5 @@
 
 ## Notaciones
 [notaciones](DataBase/Cardinality.md)
+
+[## Modelo de base de datos para tienda de Perfumes](DataBase/LogicDesing/MyFirstERD.md)
